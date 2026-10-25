@@ -1,2 +1,11 @@
 # CS320-Final-Project
 Project One and Two from CS 320 
+
+How can I ensure that my code, program, or software is functional and secure?
+I can ensure that my software is both functional and secure, I should first make sure that I understand the requirements for the software.  I also need to follow the best coding practices, such as making sure my code is easy to read and understand and it can handle errors correctly.  I also need to test the software to ensure that errors and bugs are addressed and fixed prior to finishing my work on the software.  Keeping the code secure and maintaining it also keeps software functional and secure.
+
+How do I interpret user needs and incorporate them into a program?
+First I would need to understand what the user wants to accomplish while using the program.  I could find this information from either observing how users interact with similar programs or through feedback from interviews and surveys.  I could then add them into my requirements and further organize them into either being functional or nonfunctional requirements.  I could then prioritize the requirements into what needs to be immediately worked on to what can be worked on later.  I could then test and show the work I completed to users to determine if it meets the users needs, and further work on them if necessary.
+
+How do I approach designing software?
+I look to identify what problems the software is looking to solve or the intended functions that the software needs to have.  Then I look at the requirements, both functional and nonfunctional to begin organizing the work and prioritize the functions I need to implement within the software.  I can then break down the software into sections, with me testing each section as a continue with my development, ensuring that the tests I conduct are passed, before moving to the next one.  I could then put the sections together and test to see if the software is still functional and that tests are still passed.  Once I know that all parts of the software are fully implemented and work well together without any errors, and the look (and sound if needed) are complete, I can then release the software as it is functional and passes all the tests and meets requirements.  
